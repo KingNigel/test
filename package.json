@@ -9,9 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ava":"*"
+    "ava": "*"
   },
   "devDependencies": {
-     "ava":"*"
+    "ava": "^0.15.2"
   }
 }
