@@ -4,5 +4,5 @@ module.exports=function(){
 }
 var foo=function(){
     console.log(123);
-
+    console.log(123);
 }
